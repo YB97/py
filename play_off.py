@@ -44,7 +44,6 @@ games = dict()
 for team_name in team:
     games[team_name] = []
 
-
 print('\n---1/4 stage---')
 winner_4 = stage(4, team)
 
