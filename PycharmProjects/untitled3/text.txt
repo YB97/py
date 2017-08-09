@@ -1,3 +1,0 @@
-python
-one
-hello again
